@@ -96,7 +96,7 @@ var md = `
 # 联系方式
 QQ:    591075865
 
-Email: justserendipity96@gmail.com
+Email: ruofei.zhao1996@gmail.com
 
 手机:    155-8160-0342
 
